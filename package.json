@@ -1,0 +1,11 @@
+{
+  "name": "trumpjs",
+  "version": "1.0.0",
+  "description": "make your code great again",
+  "main": "trump.js",
+  "scripts": {
+    "test": "echo \"Let me tell you. We're not going to have any errors.\""
+  },
+  "author": "Donald J. Trump <trump@thedonald.gov>",
+  "license": "GNU AGPLv3"
+}
